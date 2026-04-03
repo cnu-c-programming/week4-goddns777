@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-#include "util.h.c"
+#include "util.h"
 
 extern void task2();
 extern void logger_global(char* message);
