@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "util.h.cpp"
+#include "util.h.c"
 
 int main(){
     for(int i = 0; i < 100; i++){
