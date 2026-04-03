@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-#include "util.h.c"
+#include "util.h"
 
 void logger_global(char* message){
     static int counter = 0;
